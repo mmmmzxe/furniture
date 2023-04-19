@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-grey-3 text-base leading-relaxed ;
+  }
+  .section {
+    @apply py-[60px] lg:py-[80px];
+  }
+  .title {
+    @apply text-2xl lg:text-[40px] leading-tight mb-4;
+  }
+  .subtitle {
+    @apply text-[18px] lg:text-[20px] leading-relaxed mb-5 lg:mb-9;
+  }
+}
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  
+  
+}
+body{
+  overflow-x: hidden;
+  background: #fff;
+
+}
+.sction{
+  background-size: cover ;
+  background-position: center;
+  background-repeat: no-repeat;
+}
