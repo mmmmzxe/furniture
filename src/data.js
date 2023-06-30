@@ -144,6 +144,21 @@ export const products = {
           price: 75,
           oldPrice: 82,
         },
+        
+        {
+          image: <Product2Img />,
+          icon: <IoMdAddCircle />,
+          name: 'Wood Chair',
+          price: 50,
+          oldPrice: 70,
+        },
+        {
+          image: <Product2Img />,
+          icon: <IoMdAddCircle />,
+          name: 'Wood Chair',
+          price: 50,
+          oldPrice: 70,
+        },
         {
           image: <Product2Img />,
           icon: <IoMdAddCircle />,
