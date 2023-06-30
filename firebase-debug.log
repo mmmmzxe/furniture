@@ -203,3 +203,9 @@ Before we get started, keep in mind:
 [debug] [2023-06-30T10:21:21.891Z] [uploadQueue] Retrying task bb7ef43b2d5801015afc590d0cf63bac87eaa5fee91361621c2a65d5c9157534
 [debug] [2023-06-30T10:21:21.892Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/blocauth0/versions/0458d8317accca11/files/bb7ef43b2d5801015afc590d0cf63bac87eaa5fee91361621c2a65d5c9157534 [none]
 [debug] [2023-06-30T10:21:21.892Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/blocauth0/versions/0458d8317accca11/files/bb7ef43b2d5801015afc590d0cf63bac87eaa5fee91361621c2a65d5c9157534 [stream]
+[debug] [2023-06-30T10:24:12.685Z] [uploadQueue] Retrying task bb7ef43b2d5801015afc590d0cf63bac87eaa5fee91361621c2a65d5c9157534
+[debug] [2023-06-30T10:24:12.687Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/blocauth0/versions/0458d8317accca11/files/bb7ef43b2d5801015afc590d0cf63bac87eaa5fee91361621c2a65d5c9157534 [none]
+[debug] [2023-06-30T10:24:12.687Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/blocauth0/versions/0458d8317accca11/files/bb7ef43b2d5801015afc590d0cf63bac87eaa5fee91361621c2a65d5c9157534 [stream]
+[debug] [2023-06-30T10:27:04.281Z] [uploadQueue] Retrying task bb7ef43b2d5801015afc590d0cf63bac87eaa5fee91361621c2a65d5c9157534
+[debug] [2023-06-30T10:27:04.283Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/blocauth0/versions/0458d8317accca11/files/bb7ef43b2d5801015afc590d0cf63bac87eaa5fee91361621c2a65d5c9157534 [none]
+[debug] [2023-06-30T10:27:04.283Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/blocauth0/versions/0458d8317accca11/files/bb7ef43b2d5801015afc590d0cf63bac87eaa5fee91361621c2a65d5c9157534 [stream]
